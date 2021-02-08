@@ -3,7 +3,7 @@
 
 This notebook offers a platform that helps credit union member the ability to assess their retirement portfolios. They will first be able to assess their monthly budgets and visualize their current savings to see if they have enough in their emergency funds. Second, they will be able to forecast the performance of their retirement portfolio in 30 years using data from the last 10 years.
 
-<img src="Module_5_Challenge/Images/5-4-monte-carlo-line-plot.png" width="850" >
+![](Images/5-4-monte-carlo-line-plot.png)
 
 ---
 
